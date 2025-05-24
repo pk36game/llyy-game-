@@ -42,13 +42,13 @@ Want to help make the LLYY ranking system better?
 2. Open an Issue to provide feedback or report bugs.
 3. Submit a Pull Request to update rankings or features.
 
-Make sure to read the [`CONTRIBUTING.md`](./CONTRIBUTING.md) before submitting your suggestions.
 
 ---
 
 ## 📧 Contact
 
-For questions or collaboration, please open an issue or reach out through GitHub Discussions.
+For questions or collaboration, please open an issue or reach out through GitHub Discussions or you can visit our offical channel 
+<a href="https://llyygame.site">llyy contact</a>
 
 ---
 
