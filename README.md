@@ -3,8 +3,7 @@
 Welcome to the official repository for the **LLYY Game Ranking** project!
 
 This project aims to collect community-driven feedback, rank game performance, and provide insights based on user experiences. It is strictly for educational and analytical purposes, and does not host or distribute any game files or proprietary content.
-
----
+<a href="https://llyygame.site">llyy Game </a> 
 
 ## 🧩 About the LLYY Game
 
@@ -47,8 +46,7 @@ Want to help make the LLYY ranking system better?
 
 ## 📧 Contact
 
-For questions or collaboration, please open an issue or reach out through GitHub Discussions or you can visit our offical channel 
-<a href="https://llyygame.site">llyy contact</a>
+For questions or collaboration, please open an issue or reach out through GitHub Discussions or you can visit our offical channel.
 
 ---
 
